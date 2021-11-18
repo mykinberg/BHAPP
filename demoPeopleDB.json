@@ -1,0 +1,352 @@
+[
+   {
+      "id": 101,
+      "name": "Nelson Mandela",
+      "description": "Nelson Rolihlahla Mandela was a South African anti-apartheid revolutionary, political leader and philanthropist who served as President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997.",
+      "dob": "18 July 1918",
+      "died": "5 December 2013",
+      "age": 95,
+      "knownFor": "First president of South Africa, anti-apartheid revolutionary, political leader, philanthropist",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Nelson_Mandela.jpeg"
+   },
+   {
+      "id": 102,
+      "name": "Haile Selassie",
+      "description": "Haile Selassie I, born Ras Tafari Makonnen was the Emperor of Ethiopia from 1930 to 1974. Prior to his coronation, he had been the Regent Plenipotentiary of Ethiopia from 1916. He is a defining figure in modern Ethiopian history. He was a member of the Solomonic dynasty who traced his lineage to Emperor Menelik I.",
+      "dob": "23 July 1892",
+      "died": "27 August 1975",
+      "age": 83,
+      "knownFor": "Emperor of Ethiopia",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Haile_Selassie.jpeg"
+   },
+   {
+      "id": 103,
+      "name": "Kwame Nkrumah",
+      "description": "Kwame Nkrumah PC was a Ghanaian politician and revolutionary. He was the first Prime Minister and President of Ghana, having led the Gold Coast to independence from Britain in 1957. An influential advocate of Pan-Africanism, Nkrumah was a founding member of the Organization of African Unity and winner of the Lenin Peace Prize from the Soviet Union in 1962.",
+      "dob": "21 September 1909",
+      "died": "27 April 1972",
+      "age": 62,
+      "knownFor": "First Prime Minister and President of Ghana",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Kwame_Nkrumah.jpeg"
+   },
+   {
+      "id": 104,
+      "name": "Julius Nyerere",
+      "description": "Julius Kambarage Nyerere was a Tanzanian anti-colonial activist, politician, and political theorist. He governed Tanganyika as Prime Minister from 1961 to 1962 and then as President from 1963 to 1964, after which he led its successor state, Tanzania, as President from 1964 to 1985. A founding member of the Tanganyika African National Union (TANU) party—which in 1977 became the Chama Cha Mapinduzi party—he chaired it until 1990. Ideologically an African nationalist and African socialist, he promoted a political philosophy known as Ujamaa.",
+      "dob": "13 April 1922",
+      "died": "14 October 1999",
+      "age": 77,
+      "knownFor": "Tanzanian anti-colonial activist, politician, political theorist",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Julius_Nyerere.jpeg"
+   },
+   {
+      "id": 105,
+      "name": "Patrice Lumumba",
+      "description": "Patrice Émery Lumumba was a Congolese politician and independence leader who served as the first Prime Minister of the independent Democratic Republic of the Congo (then Republic of the Congo) from June until September 1960. He played a significant role in the transformation of the Congo from a colony of Belgium into an independent republic. Ideologically an African nationalist and pan-Africanist, he led the Congolese National Movement (MNC) party from 1958 until his assassination.",
+      "dob": "2 July 1925",
+      "died": "17 January 1961",
+      "age": 35,
+      "knownFor": "First Prime Minister of the independent Democratic Republic of the Congo",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Patrice_Lumumba.jpeg"
+   },
+   {
+      "id": 106,
+      "name": "Kofi Annan",
+      "description": "Kofi Atta Annan was a Ghanaian diplomat who served as the seventh Secretary-General of the United Nations from January 1997 to December 2006. Annan and the UN were the co-recipients of the 2001 Nobel Peace Prize. He was the founder and chairman of the Kofi Annan Foundation, as well as chairman of The Elders, an international organization founded by Nelson Mandela.",
+      "dob": "8 April 1938",
+      "died": "18 August 2018",
+      "age": 80,
+      "knownFor": "Ghanaian diplomat, 7th Secretary-General of the United Nations",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Kofi_Annan.jpeg"
+   },
+   {
+      "id": 107,
+      "name": "Thomas Sankara",
+      "description": "Thomas Isidore Noël Sankara was a Burkinabé military officer and socialist revolutionary who served as the President of Burkina Faso from 1983 to 1987. A Marxist–Leninist and pan-Africanist, he was viewed by supporters as a charismatic and iconic figure of revolution and is sometimes referred to as \"Africa's Che Guevara\".",
+      "dob": "21 December 1949",
+      "died": "15 October 1987",
+      "age": 37,
+      "knownFor": "Military Officer, socialist, president of Burkina Faso",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Thomas_Sankara.jpeg"
+   },
+   {
+      "id": 110,
+      "name": "Ellen Johnson Sirleaf",
+      "description": "Ellen Johnson Sirleaf is a Liberian politician who served as the 24th President of Liberia from 2006 to 2018. Sirleaf was the first elected female head of state in Africa.",
+      "dob": "29 October 1938",
+      "died": "She's still alive",
+      "age": 82,
+      "knownFor": "Liberian politician, first elected female head of state in Africa",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Ellen_Johnson_Sirleaf.jpeg"
+   },
+   {
+      "id": 1,
+      "name": "Hank Aaron",
+      "description": "Henry Louis Aaron , nicknamed \"Hammer\" or \"Hammerin' Hank\", was an American professional baseball right fielder who played 23 seasons in Major League Baseball (MLB), from 1954 through 1976. He spent 21 seasons with the Milwaukee/Atlanta Braves in the National League (NL) and two seasons with the Milwaukee Brewers in the American League (AL).",
+      "dob": "February 5, 1934",
+      "died": "January 22, 2021",
+      "age": 86,
+      "knownFor": "Known as 'Hammer', this hero played baseball for the Milwaukee Brewers and Atlanta Braves, rightfielder and first Baseman",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Hank_Aaron.jpeg"
+   },
+   {
+      "id": 2,
+      "name": "Ira Aldridge",
+      "description": "Ira Frederick Aldridge was an American and later British actor and playwright who made his career after 1824 largely on the London stage and in Europe, especially in Shakespearean roles. Born in New York City, Aldridge is the only actor of African-American descent among the thirty-three actors of the English stage honoured with bronze plaques at the Shakespeare Memorial Theatre at Stratford-upon-Avon.",
+      "dob": "July 24, 1807",
+      "died": "August 7, 1867",
+      "age": 60,
+      "knownFor": "Preeminent Shakespearean actor , first African American actor to achieve success on the international stage",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Ira_Aldridge.jpeg"
+   },
+   {
+      "id": 3,
+      "name": "Muhammad Ali",
+      "description": "Muhammad Ali, born Cassius Marcellus Clay Jr. was an American professional boxer, activist, entertainer and philanthropist. Nicknamed The Greatest, he is widely regarded as one of the most significant and celebrated figures of the 20th century and as one of the greatest boxers of all time.",
+      "dob": "January 17, 1942",
+      "died": "June 3, 2016",
+      "age": 74,
+      "knownFor": "American professional boxer nicknamed 'The Greatest'",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Muhammad_Ali.webp"
+   },
+   {
+      "id": 4,
+      "name": "Richard Allen",
+      "description": "Richard Allen was a minister, educator, writer, and one of America's most active and influential Black leaders. In 1794, he founded the African Methodist Episcopal Church (AME), the first independent Black denomination in the United States. He opened his first AME church in 1794 in Philadelphia, Pennsylvania.",
+      "dob": "February 14, 1760",
+      "died": "March 26, 1831",
+      "age": 71,
+      "knownFor": "Founded the African Methodist Episcopal Church (AME), the first independent Black denomination in the United States",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Richard_Allen.jpeg"
+   },
+   {
+      "id": 5,
+      "name": "Marian Anderson",
+      "description": "Marian Anderson was an American contralto. She performed a wide range of music, from opera to spirituals. Anderson performed with renowned orchestras in major concert and recital venues throughout the United States and Europe between 1925 and 1965.",
+      "dob": "February 27, 1897",
+      "died": "April 8, 1993",
+      "age": 94,
+      "knownFor": "First African American to perform as a member of the New York Metropolitan Opera",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Marian_Anderson.jpeg"
+   },
+   {
+      "id": 6,
+      "name": "Maya Angelou",
+      "description": "Maya Angelou, born Marguerite Annie Johnson, was an American poet, memoirist, and civil rights activist. She published seven autobiographies, three books of essays, several books of poetry, and is credited with a list of plays, movies, and television shows spanning over 50 years. She received dozens of awards and more than 50 honorary degrees. Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences. The first, I Know Why the Caged Bird Sings (1969), tells of her life up to the age of 17 and brought her international recognition and acclaim.",
+      "dob": "April 4, 1928",
+      "died": "May 28, 2014",
+      "age": 86,
+      "knownFor": "Poet, dancer, singer, activist and world-famous author known for a unique and pioneering autobiographical writing style",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Maya_Angelou.jpeg"
+   },
+   {
+      "id": 7,
+      "name": "Arthur Ashe",
+      "description": "Arthur Robert Ashe Jr. was an American professional tennis player who won three Grand Slam singles titles. He was the first black player selected to the United States Davis Cup team and the only black man ever to win the singles title at Wimbledon, the US Open, and the Australian Open. He retired in 1980.",
+      "dob": "July 10, 1943",
+      "died": "February 6, 1993",
+      "age": 49,
+      "knownFor": "First and only African American male tennis player to win the U.S. Open and Wimbledon singles titles",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Arthur_Ashe.jpeg"
+   },
+   {
+      "id": 9,
+      "name": "James Baldwin",
+      "description": "James Arthur Baldwin was an American novelist, playwright, essayist, poet, and activist. His essays, collected in Notes of a Native Son (1955), explore intricacies of racial, sexual, and class distinctions in the Western society of the United States during the mid twentieth-century.",
+      "dob": "August 2, 1924",
+      "died": "December 1, 1987",
+      "age": 63,
+      "knownFor": "Novelist, Playwright, Essayist, Poet, Activist and writer known for his ability to address American race relations from a psychological perspective.",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/James_Baldwin.jpeg"
+   },
+   {
+      "id": 10,
+      "name": "Benjamin Banneker",
+      "description": "Benjamin Banneker was a free African-American almanac author, surveyor, landowner and farmer who had knowledge of mathematics and natural history. Born in Baltimore County, Maryland, to a free African-American woman and a former slave, Banneker had little or no formal education and was largely self-taught. He became known for assisting Major Andrew Ellicott in a survey that established the original borders of the District of Columbia, the federal capital district of the United States.",
+      "dob": "November 9, 1731",
+      "died": "October 19, 1806",
+      "age": 74,
+      "knownFor": "Producing one of America's earliest almanacs and what may have been the country's first natively produced clock",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Benjamin_Banneker.jpeg"
+   },
+   {
+      "id": 11,
+      "name": "Amiri Baraka",
+      "description": "Amiri Baraka (born Everett LeRoi Jones ), previously known as LeRoi Jones and Imamu Amear Baraka, was an American writer of poetry, drama, fiction, essays and music criticism. He was the author of numerous books of poetry and taught at several universities, including the University at Buffalo and Stony Brook University. He received the PEN/Beyond Margins Award in 2008 for Tales of the Out and the Gone.",
+      "dob": "October 7, 1934",
+      "died": "January 9, 2014",
+      "age": 79,
+      "knownFor": "Actor, teacher, theater director, writer and founder and chairman of the Congress of African People",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Amiri_Baraka.jpeg"
+   },
+   {
+      "id": 12,
+      "name": "Romare Bearden",
+      "description": "Romare Bearden was an American artist, author, and songwriter. He worked with many types of media including cartoons, oils, and collages. Born in Charlotte, North Carolina, Bearden grew up in New York City and Pittsburgh, Pennsylvania, and graduated from New York University in 1935.",
+      "dob": "September 2, 1911",
+      "died": "March 12, 1988",
+      "age": 76,
+      "knownFor": "American painter, whose collages of photographs and painted paper on canvas depict aspects of American black culture in a style derived from Cubism",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Romare_Bearden.jpeg"
+   },
+   {
+      "id": 13,
+      "name": "Mary McLeod",
+      "description": "Mary Jane McLeod Bethune (born Mary Jane McLeod) was an American educator, stateswoman, philanthropist, humanitarian, womanist, and civil rights activist. Bethune founded the National Council for Negro Women in 1935, established the organization's flagship journal Aframerican Women's Journal, and resided as president or leader for myriad African American women's organizations including the National Association for Colored Women and the National Youth Administration's Negro Division",
+      "dob": "July 10, 1875",
+      "died": "May 18, 1955",
+      "age": 79,
+      "knownFor": "Passionate educator, presidential advisor, stateswoman, philanthropist, humanitarian, womanist, civil rights activist.",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Mary_McLeod_Bethune.jpeg"
+   },
+   {
+      "id": 14,
+      "name": "Guion Bluford",
+      "description": "Guion Stewart Bluford Jr. is an American aerospace engineer, retired U.S. Air Force officer and fighter pilot, and former NASA astronaut, who is the first African American and the second person of African descent to go to space. Before becoming an astronaut, he was an officer in the U.S. Air Force, where he remained while assigned to NASA, rising to the rank of colonel. He participated in four Space Shuttle flights between 1983 and 1992. In 1983, as a member of the crew of the Orbiter Challenger on the mission STS-8, he became the first African American in space as well as the second person of African ancestry in space, after Cuban cosmonaut Arnaldo Tamayo Méndez.",
+      "dob": "November 22, 1942",
+      "died": "He'still alive",
+      "age": 78,
+      "knownFor": "Engineer, Fighter Pilot, Astronaut who deployed the Indian National Satellite (INSAT-1B) while in orbit",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guion_Bluford.jpg/220px-Guion_Bluford.jpg"
+   },
+   {
+      "id": 15,
+      "name": "Arna Bontemps",
+      "description": "Arna Wendell Bontemps was an American poet, novelist and librarian, and a noted member of the Harlem Renaissance.",
+      "dob": "October 13, 1902",
+      "died": "June 4, 1973",
+      "age": 71,
+      "knownFor": "Poet, librarian, novelist known for his novels, the critically-acclaimed Black Thunder (1936)",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Arna_Bontemps.jpeg"
+   },
+   {
+      "id": 16,
+      "name": "Edward Brooke",
+      "description": "Edward William Brooke III was an American Republican politician. In 1966, he became the first African American popularly elected to the United States Senate. He represented Massachusetts in the Senate from 1967 to 1979.",
+      "dob": "October 26, 1919",
+      "died": "January 3, 2015",
+      "age": 95,
+      "knownFor": "United States Senator whose election to the Senate from Massachusetts to serve in 1966 ended an 86–year absence of African–American Senators.",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Edward_Brooke.jpeg"
+   },
+   {
+      "id": 17,
+      "name": "Gwendolyn Brooks",
+      "description": "Gwendolyn Elizabeth Brooks was an American poet, author, and teacher. Her work often dealt with the personal celebrations and struggles of ordinary people in her community. She won the Pulitzer Prize for Poetry on May 1, 1950, for Annie Allen, making her the first African American to receive a Pulitzer Prize.",
+      "dob": "June 7, 1917",
+      "died": "December 3, 2000",
+      "age": 70,
+      "knownFor": "Postwar poet best known as the first African American to win a Pulitzer Prize for her 1949 book 'Annie Allen'",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Gwendolyn_Brooks.jpeg"
+   },
+   {
+      "id": 18,
+      "name": "Blanche Bruce",
+      "description": "Blanche Kelso Bruce was born into slavery in Prince Edward County, Virginia and went on to become a politician who represented Mississippi as a Republican in the United States Senate from 1875 to 1881. He was the first elected African-American senator to serve a full term.",
+      "dob": "March 1, 1841",
+      "died": "March 17, 1898",
+      "age": 57,
+      "knownFor": "First African-American politician to serve a full term",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Blanche_Bruce.jpeg"
+   },
+   {
+      "id": 19,
+      "name": "Ralph Bunche",
+      "description": "Ralph Johnson Bunche was an American political scientist, academic, and diplomat who received the 1950 Nobel Peace Prize for his late 1940s mediation in Israel. He was the first African American to be so honored. He was involved in the formation and administration of the United Nations and played a major role in numerous peacekeeping operations sponsored by the UN. In 1963, he was awarded the Presidential Medal of Freedom by President John F. Kennedy",
+      "dob": "August 7, 1904",
+      "died": "December 9, 1971",
+      "age": 67,
+      "knownFor": "First African American to receive the Nobel Peace Prize",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Ralph_Bunche.jpeg"
+   },
+   {
+      "id": 20,
+      "name": "George Washington Carver",
+      "description": "George Washington Carver was an American agricultural scientist and inventor who promoted alternative crops to cotton and methods to prevent soil depletion. He was the most prominent black scientist of the early 20th century.",
+      "dob": "1 January 1864",
+      "died": "5 January 1943",
+      "age": 79,
+      "knownFor": "Agricultural scientist and inventor who developed hundreds of products using peanuts",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/George_Washington_Carver.jpeg"
+   },
+   {
+      "id": 21,
+      "name": "Shirley Chisholm",
+      "description": "Shirley Anita Chisholm (née St. Hill) was an American politician, educator, and author. In 1968, she became the first black woman elected to the United States Congress, representing New York's 12th congressional district for seven terms from 1969 to 1983. In the 1972 United States presidential election, she became the first African-American candidate for a major party's nomination for President of the United States, and the first woman to run for the Democratic Party's presidential nomination.",
+      "dob": "November 30, 1924",
+      "died": "January 1, 2005",
+      "age": 80,
+      "knownFor": "First black woman elected to the United States Congress",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Shirley_Chisholm.jpeg"
+   },
+   {
+      "id": 24,
+      "name": "John Coltrane",
+      "description": "John William Coltrane was an American jazz saxophonist, clarinettist and composer. Working in the bebop and hard bop idioms early in his career, Coltrane helped pioneer the use of modes and was at the forefront of free jazz. He led at least fifty recording sessions and appeared on many albums by other musicians, including trumpeter Miles Davis and pianist Thelonious Monk.",
+      "dob": "September 23, 1926",
+      "died": "July 17, 1967",
+      "age": 40,
+      "knownFor": "Acclaimed American saxophonist, bandleader and composer, becoming an iconic figure of jazz in the 20th century",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/John_Coltrane.jpeg"
+   },
+   {
+      "id": 27,
+      "name": "Countee Cullen",
+      "description": "Countee Cullen (born Countee LeRoy Porter) was an American poet, novelist, children's writer, and playwright, particularly well known during the Harlem Renaissance.[1]",
+      "dob": "May 30, 1903 ",
+      "died": "January 9, 1946",
+      "age": 42,
+      "knownFor": "Novelist, children's writer, playwright and poet who won more major literary prizes than any other black writer of the 1920s",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Countee_Cullen.jpeg"
+   },
+   {
+      "id": 28,
+      "name": "Benjamin Davis Jr.",
+      "description": "Benjamin Oliver Davis Jr. was a United States Air Force general and commander of the World War II Tuskegee Airmen. He was the first Black Brigadier general in the United States Air Force. On December 9, 1998, he was advanced to four-star general by President Bill Clinton",
+      "dob": "December 18, 1912",
+      "died": "July 4, 2002",
+      "age": 89,
+      "knownFor": "First black Brigadier General in the United States Air Force",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Benjamin_Davis.jpeg"
+   },
+   {
+      "id": 30,
+      "name": "Frederick Douglass",
+      "description": "Frederick Douglass (born Frederick Augustus Washington Bailey) was an American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, becoming famous for his oratory and incisive antislavery writings. Accordingly, he was described by abolitionists in his time as a living counter-example to slaveholders' arguments that slaves lacked the intellectual capacity to function as independent American citizens. Likewise, Northerners at the time found it hard to believe that such a great orator had once been a slave.",
+      "dob": "c. February 1818",
+      "died": "February 20, 1895",
+      "age": 77,
+      "knownFor": "Social reformer, abolitionist, orater, writer, statesman",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Frederick_Douglass.jpeg"
+   },
+   {
+      "id": 31,
+      "name": "Charles R. Drew",
+      "description": "Charles Richard Drew was an American surgeon and medical researcher. He researched in the field of blood transfusions, developing improved techniques for blood storage, and applied his expert knowledge to developing large-scale blood banks early in World War II. This allowed medics to save thousands of lives of the Allied forces. As the most prominent African American in the field, Drew protested against the practice of racial segregation in the donation of blood, as it lacked scientific foundation, and resigned his position with the American Red Cross, which maintained the policy until 1950.",
+      "dob": "June 3, 1904",
+      "died": "April 1, 1950",
+      "age": 45,
+      "knownFor": "Medical researcher, surgeon and researcher who organized America's first large-scale blood bank and trained a generation of black physicians at Howard University",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Charles_Drew.jpeg"
+   },
+   {
+      "id": 35,
+      "name": "Duke Ellington",
+      "description": "Edward Kennedy \"Duke\" Ellington was an American composer, pianist, and leader of a jazz orchestra, which he led from 1923 until his death over a career spanning more than six decades.[1]",
+      "dob": "April 29, 1899",
+      "died": "May 24, 1974",
+      "age": 75,
+      "knownFor": "Composer, pianist, leader of jazz orchestra",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Duke_Ellington.jpeg"
+   },
+   {
+      "id": 41,
+      "name": "Fannie Lou Hamer",
+      "description": "Fannie Lou Hamer (née Townsend) was an American voting and women's rights activist, community organizer, and a leader in the civil rights movement. She was the co-founder and vice-chair of the Freedom Democratic Party, which she represented at the 1964 Democratic National Convention. Hamer also organized Mississippi's Freedom Summer along with the Student Nonviolent Coordinating Committee (SNCC). She was also a co-founder of the National Women's Political Caucus, an organization created to recruit, train, and support women of all races who wish to seek election to government office.[1]",
+      "dob": "October 6, 1917",
+      "died": "March 14, 1977",
+      "age": 59,
+      "knownFor": "Voting and women's rights activist, community organizer, leader in the civil rights movement, co-founder and vice chair of the Freedom Democratic Party",
+      "image": "https://black-hero-images.s3.us-east-2.amazonaws.com/Fannie_Lou.jpeg"
+   }
+]
